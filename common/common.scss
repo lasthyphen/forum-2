@@ -10,7 +10,10 @@
 @import "kodular/user-menu.scss";
 @import "kodular/cards.scss";
 
-
+:root {
+    --base-font-size: 0.98em !important;
+    --line-height-large: 1.6 !important;
+}
 
 body.dark-knight {
     background-color: #161616;
