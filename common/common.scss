@@ -37,6 +37,14 @@ body {
     vertical-align: -.102198em !important;
 }
 
+#topic-footer-button-bookmark i, #topic-footer-button-share-and-invite i, #topic-footer-button-flag i, #topic-footer-buttons .create.btn i, .post-info.edits i::before {
+    font-size: 17px;
+    line-height: 0;
+    vertical-align: middle;
+    margin-right: 5px;
+    padding-bottom: 0px !important;
+}
+
 .btn {
     line-height: 1 !important;
 }
