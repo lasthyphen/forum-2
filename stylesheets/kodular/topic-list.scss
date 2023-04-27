@@ -20,6 +20,11 @@ body.dark-knight .topic-list-item:nth-child(even) {
     border-top: 0;
 }
 
+.topic-list .link-bottom-line .discourse-tags {
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
 .topic-list > thead > tr > th,
 .category-list .category,
 .category-list .topics {
