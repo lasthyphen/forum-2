@@ -50,6 +50,14 @@ body {
     margin-right: 5px;
 }
 
+.topic-list .topic-list-item-separator td {
+    background: #e8dffe !important;
+}
+
+.topic-list .topic-list-item-separator .topic-list-data span {
+    color: #4527a0 !important;
+}
+
 .category-list .category-text-title {
     display: flex;
     align-items: center !important;
