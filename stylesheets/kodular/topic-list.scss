@@ -31,3 +31,7 @@ body.dark-knight .topic-list-item:nth-child(even) {
     font-size: 16px;
     color: var(--primary-500);
 }
+
+.topic-list-item.visited .topic-list-data span.badge-category, .latest-topic-list-item.visited span.badge-category, .category-topic-link.visited span.badge-category {
+    text-transform: uppercase;
+}
