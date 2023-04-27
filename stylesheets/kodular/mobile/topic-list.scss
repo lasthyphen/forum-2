@@ -1,5 +1,9 @@
 .topic-list .topic-item-stats__category-tags .discourse-tags {
-    display: flex !important;
-    gap: 4px !important;
-    margin-top: 6px !important;
+    display: flex;
+    gap: 4px;
+    margin-top: 6px;
+}
+
+.topic-list .topic-list-data {
+    padding: 7px;
 }
