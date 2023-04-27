@@ -16,8 +16,17 @@ body.dark-knight {
     background-color: #161616;
 }
 
+html {
+    color: #333333 !important;
+    letter-spacing: 0.09px !important;
+    overflow-y: scroll;
+    direction: ltr;
+    text-rendering: optimizeSpeed !important;
+}
 
-
+body {
+    -webkit-font-smoothing: antialiased !important;
+}
 
 .admin-main-nav .nav-pills > li {
     margin: 0 4px;
