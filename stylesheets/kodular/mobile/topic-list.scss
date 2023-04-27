@@ -1,3 +1,5 @@
-.topic-list .link-bottom-line .discourse-tags {
+.topic-list .topic-item-stats__category-tags .discourse-tags {
+    display: flex;
+    gap: 4px;
     margin-top: 6px;
 }
