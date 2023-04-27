@@ -13,6 +13,7 @@
 :root {
     --base-font-size: 0.98em !important;
     --line-height-large: 1.6 !important;
+    --heading-font-family: 'Jost', sans-serif;
 }
 
 body.dark-knight {
@@ -24,7 +25,7 @@ html {
     letter-spacing: 0.09px !important;
     overflow-y: scroll;
     direction: ltr;
-    text-rendering: optimizeSpeed !important;
+    text-rendering: geometricPrecision !important;
 }
 
 body {
