@@ -28,6 +28,11 @@ body {
     -webkit-font-smoothing: antialiased !important;
 }
 
+.posts-wrapper {
+    text-rendering: geometricPrecision !important;
+    -webkit-font-smoothing: antialiased !important;
+}
+
 .admin-main-nav .nav-pills > li {
     margin: 0 4px;
 }
