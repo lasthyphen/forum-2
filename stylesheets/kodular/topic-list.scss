@@ -25,6 +25,10 @@ body.dark-knight .topic-list-item:nth-child(even) {
     gap: 5px;
 }
 
+.topic-list .topic-list-data {
+    padding: 12px;
+}
+
 .topic-list > thead > tr > th,
 .category-list .category,
 .category-list .topics {
