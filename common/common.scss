@@ -54,6 +54,20 @@ body {
     padding-bottom: 0px !important;
 }
 
+.category-list .category-text-title {
+    display: flex;
+    align-items: center !important;
+}
+
+.categories-list .category h3 .d-icon, .categories-list .category h4 .d-icon {
+    color: var(--primary-high);
+    height: auto !important;
+    width: .76em;
+    vertical-align: top !important;
+    margin-right: .1em;
+    position: relative !important;
+}
+
 .btn {
     line-height: 1 !important;
 }
